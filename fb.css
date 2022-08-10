@@ -1,0 +1,111 @@
+body {
+    margin:0px;
+    background:#f0f2f5;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
+.content {
+    width:100%;
+}
+.header {
+    width:100%;
+    height:72px;
+}
+.fb-writings {
+    float:left;
+    width:695px;
+    height:600px;
+    margin-left:150px;
+}
+.fb-text {
+    height:300px;
+    width:350px;
+    padding-top:33px;
+    padding-left: 93px;
+}
+.fb-msg {
+    padding-left: 128px;
+    margin-top: -97px;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    color:#1c1e21;
+}
+.log-foam {
+    float:left;
+    width:691px;
+    height:600px;
+}
+.login-table {
+    width: 396px;
+    height: 335px;
+    margin-top: 75px;
+    background:#fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    border-radius:10px;
+}
+tr,td {
+    text-align:center;
+}
+.input-box {
+    border-radius:6px;
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+    background:#FFFFFF;
+    border:1px solid #dddfe2;
+    color:#1d2129;
+    height: 22px;
+    line-height: 16px;
+}
+.msg {
+    margin-left:35px;
+}
+.login-button {
+    background:#166fe5;
+    border-color:#365899;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    width: 332px;
+    color:#fff;
+    font-weight: bold;
+    cursor:pointer;
+}
+.fgt-link {
+    color: #1877f2;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration:none;
+    cursor:pointer;
+}
+a:hover {
+    text-decoration:underline;
+}
+.line {
+    margin-left:15px;
+    margin-right:15px;
+    color:#dddfe2;
+}
+.create-btn {
+    background-color:#36a420;
+    border-color:#36a420;
+    border-radius:6px;
+    line-height:48px;
+    font-size:17px;
+    padding-left:10px;
+    padding-right:10px;
+    color:#fff;
+    font-weight:bold;
+}
+.create-link {
+    font-size:14px;
+    font-weight:600;
+    color:#1c1e21;
+    text-decoration:none;
+}
+.inner-msg {
+    font-size:14px;
+    font-weight:normal;
+    color:#1c1e21;
+}
